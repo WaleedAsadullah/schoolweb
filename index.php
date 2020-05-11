@@ -54,9 +54,9 @@
                 <div class="text-center">
                     <h4 class="text-uppercase font-bold m-b-0">Sign In</h4>
                     <div style="margin-top: 8px">
-                        <span><a class="click" href="admin-mod-student-attendance.php">Admin</a></span>
-                        <span><a class="click" href="accounts-mod-profit-and-loss.php">Account</a></span>
-                        <span><a class="click" href="parents-mod-child-progress-reports.php">Parent</a></span>
+                        <span><a class="click" href="Admin-mod-student-attendance.php">Admin</a></span>
+                        <span><a class="click" href="Accounts-mod-profit-and-loss.php">Account</a></span>
+                        <span><a class="click" href="Parents-mod-child-progress-reports.php">Parent</a></span>
                         <span><a class="click" href="Students-mod-video-lecture.php">Student</a></span>
                     </div>
 
